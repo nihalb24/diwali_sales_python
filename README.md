@@ -1,6 +1,6 @@
 # diwali_sales_python
 perform data cleaning with python
-perform Exploratory data analysis (EDA)
+performed Exploratory data analysis (EDA)
 <br>
 using pandas matplotlib seaborn library
 improve sales by identifying most selling products
